@@ -7,4 +7,4 @@
    <img src="https://github.com/priyanka2619/REACT-PROJECT/assets/74972482/e7f4f21d-69ab-4c2f-88b2-86c2bfea1c5c" width="350px" height="150px">
    
 <h2>3.Currency Converter App</h2>
-   <img src="https://github.com/priyanka2619/REACT-PROJECT/assets/74972482/0ee05f65-9cd9-4bfe-bee2-908550593eb6" width="350px" height="300px">
+   <img src="https://github.com/priyanka2619/REACT-PROJECT/assets/74972482/cacee077-b61a-4fa6-acae-7c71a7d7296b" width="350px" height="300px">
