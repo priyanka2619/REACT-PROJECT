@@ -10,7 +10,7 @@
    <img src="https://github.com/priyanka2619/REACT-PROJECT/assets/74972482/cacee077-b61a-4fa6-acae-7c71a7d7296b" width="350px" height="300px">
 
 <h2>4.Theme Switcher App</h2>
-   <img src="https://github.com/priyanka2619/REACT-PROJECT/assets/74972482/90d02685-9c42-47c1-926b-6bdeae5e2079" width="350px" height="150px">
+   <img src="https://github.com/priyanka2619/REACT-PROJECT/assets/74972482/90d02685-9c42-47c1-926b-6bdeae5e2079" width="350px" height="200px">
 
 <h2>5.Todo App</h2>
-   <img src="!https://github.com/priyanka2619/REACT-PROJECT/assets/74972482/c30e0692-2533-4239-8a48-404c2402739e" width="350px" height="300px">
+   <img src="https://github.com/priyanka2619/REACT-PROJECT/assets/74972482/c30e0692-2533-4239-8a48-404c2402739e" width="350px" height="300px">
