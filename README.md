@@ -16,4 +16,4 @@
    <img src="https://github.com/priyanka2619/REACT-PROJECT/assets/74972482/c30e0692-2533-4239-8a48-404c2402739e" width="350px" height="200px">
 
 <h2>6. Todo App using reduxToolkit</h2>
-   <img src="https://github.com/priyanka2619/REACT-PROJECT/assets/74972482/bbb23087-d67f-41a2-9f8d-fd47800007f3" width="350px" height="200px">
+   <img src="https://github.com/priyanka2619/REACT-PROJECT/assets/74972482/bbb23087-d67f-41a2-9f8d-fd47800007f3" width="350px" height="150px">
