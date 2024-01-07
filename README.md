@@ -14,3 +14,6 @@
 
 <h2>5.Todo App</h2>
    <img src="https://github.com/priyanka2619/REACT-PROJECT/assets/74972482/c30e0692-2533-4239-8a48-404c2402739e" width="350px" height="200px">
+
+<h2>6. Todo App using reducToolkit</h2>
+   <img src="https://github.com/priyanka2619/REACT-PROJECT/assets/74972482/ab711f00-4b26-43c6-bf12-aeba763235e3" width="300px" height="200px">
